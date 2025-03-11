@@ -2,8 +2,6 @@
 using ScreenSound2.Modelos;
 using OpenAI;
 
-// var client = new OpenAI("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");
-
 namespace ScreenSound2;
 internal static class Program
 {
