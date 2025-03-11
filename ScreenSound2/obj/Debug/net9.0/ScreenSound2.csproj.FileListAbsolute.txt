@@ -1,0 +1,14 @@
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\bin\Debug\net9.0\ScreenSound2.exe
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\bin\Debug\net9.0\ScreenSound2.deps.json
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\bin\Debug\net9.0\ScreenSound2.runtimeconfig.json
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\bin\Debug\net9.0\ScreenSound2.dll
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\bin\Debug\net9.0\ScreenSound2.pdb
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\obj\Debug\net9.0\ScreenSound2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\obj\Debug\net9.0\ScreenSound2.AssemblyInfoInputs.cache
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\obj\Debug\net9.0\ScreenSound2.AssemblyInfo.cs
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\obj\Debug\net9.0\ScreenSound2.csproj.CoreCompileInputs.cache
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\obj\Debug\net9.0\ScreenSound2.dll
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\obj\Debug\net9.0\refint\ScreenSound2.dll
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\obj\Debug\net9.0\ScreenSound2.pdb
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\obj\Debug\net9.0\ScreenSound2.genruntimeconfig.cache
+C:\Users\iasmin.pfeifer\OneDrive - AUTOGLASS\Códigos\Alura\ScreenSound2.0\ScreenSound2\obj\Debug\net9.0\ref\ScreenSound2.dll
